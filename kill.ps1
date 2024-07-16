@@ -1,5 +1,5 @@
 # https://www.mbnq.pl/
-# kill non-essential processes in windows11
+# kills all non-essential processes in windows11
 
 # Define exit codes
 $exitSuccess = 0
